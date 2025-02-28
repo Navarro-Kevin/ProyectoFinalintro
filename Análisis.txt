@@ -1,0 +1,6 @@
+Análisis:
+La empresa de seguros TK-U, necesita un sistema de cotización más rápido y efectivo, actualmente se realizan de forma manual y el tiempo de espera esta siendo muy largo y no se están haciendo mas de 50 cotizaciones por día.
+
+El servicio se puede ofrecer si la persona es mayor de edad 
+
+Para lo cual necesitamos crear un cotizador automático, tomando en cuenta los cargos que estas requieren, para ello debemos saber la edad del cliente/asegurado, conteniendo los recargos (de 18 a 24 años 10% del precio base, de 25 a 49 años 20% del precio base y de 50 años 30% del precio base) que se aplica al asegurado y el cónyuge individualmente. Tomando en cuenta que por cada hijo que tenga el asegurado tiene un recargo del 20% sobre el peso base sin importar la edad. 

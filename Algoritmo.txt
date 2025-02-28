@@ -1,0 +1,33 @@
+Algoritmo:
+1.	Abrir la página web de Seguros TK-U desde cualquier dispositivo.
+2.	Seleccionar el boto “Cotizar”
+3.	La página solicita los datos
+4.	Primer dato solicitado es nombre (Ingrese su nombre, por favor)
+5.	Damos clic en el rectángulo vacío
+6.	Ingresamos nombre
+7.	Presionamos enter
+8.	Siguiente dato solicitado es la edad
+9.	Repetimos paso 5
+10.	Ingresamos edad
+11.	Aquí calculamos si la edad es menor a 18 
+12.	Se niega solicitud
+13.	Repetir paso 7
+14.	Si el dato es entre 18 y 24 años se suma 10% de recargo
+15.	Si el dato es entre 25 y 49 años se suma 20% de recargo
+16.	Si el dato es de 50 años o mas se suma 30% de recargo
+17.	Siguiente pregunta es “está casado?”
+18.	Si la respuesta es SI
+19.	Se despliega otra solicitud de dato preguntando edad del cónyuge
+20.	Repetir paso 5
+21.	Repetir paso 10
+22.	Repetir paso 7
+23.	Si el dato es entre 18 y 24 años se suma 10% de recargo
+24.	Si el dato es entre 25 y 49 años se suma 20% de recargo
+25.	Si el dato es de 50 años o más se suma 30% de recargo
+26.	Repetir paso 7
+27.	Siguiente pregunta es Cuantos hijos tiene?
+28.	Repetimos paso 5
+29.	Si el valor es 0 no se suma nada
+30.	Si el valor es de 1 en adelante se suma 20% por cada uno de ellos.
+31.	Repetimos paso 7
+32.	Nos mostrara el resultado de la cotización
